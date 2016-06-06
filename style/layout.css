@@ -1,0 +1,28 @@
+body{
+	margin-left: 50px;
+	margin-top: 20px;
+	font-size: 18px;
+	margin-right:30px;
+	text-align: justify;
+
+
+}
+
+.name{
+	font-style: italic;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+
+.myFormElement{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.exp{
+	border-bottom: 1px solid black;
+	padding: 2px;
+}
+
